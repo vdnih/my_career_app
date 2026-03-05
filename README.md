@@ -1,16 +1,26 @@
-# my_career_app
+# My Career & Life Timeline
 
-A new Flutter project.
+**あなたのキャリアと人生を、一つのタイムラインで美しく可視化するアプリ**
 
-## Getting Started
+仕事とプライベート。私たちの人生を形作るこの2つの大切な要素は、決して切り離せるものではありません。
+「My Career & Life Timeline」は、あなたのキャリアの歩みとプライベートの重要なイベントを、直感的で美しいデュアルタイムライン上で同時に振り返ることができるアプリケーションです。
 
-This project is a starting point for a Flutter application.
+## 🌟 主な特徴
 
-A few resources to get you started if this is your first Flutter project:
+### 1. 仕事とプライベートのデュアルタイムライン
+「仕事」と「プライベート」のタイムラインを分けて表示。
+「あの大型プロジェクトを任されていた時期は、ちょうど旅行に行っていた時期だな」など、公私の出来事の交差をひと目で把握できます。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. 期間の視覚的な表現
+一日限りのイベント（入社日など）だけでなく、「プロジェクト期間」や「留学期間」のような幅のある出来事も、矢印付きのバーで分かりやすく表現。
+あなたの経験がどれほどの期間にわたって培われたものか、直感的に伝わります。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. 思い出と記録の振り返り
+タイムライン上のイベントをタップすると、詳細な内容を確認可能。
+当時の状況や感情、学んだことなどを記録しておくことで、ポートフォリオの作成や自己分析、思い出の振り返りに役立ちます。
+
+### 4. 洗練されたビジュアルデザイン
+ユーザーの経歴をより魅力的に見せるクリーンなデザインを採用しています。
+
+---
+*あなたのこれまでの歩みを可視化し、これからの未来を描くためのツールとしてご活用ください。*
